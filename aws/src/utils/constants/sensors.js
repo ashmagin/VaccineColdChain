@@ -1,0 +1,23 @@
+const STATUS_ONLINE = 'ONLINE';
+const STATUS_OFFLINE = 'OFFLINE';
+const LIMIT_TEMPERATURE = -5;
+const TYPE_TEMPERATURE = 'TEMPERATURE';
+const TYPE_FALL = 'FALL';
+const FILTER_6HR = '6hr';
+const FILTER_12HR = '12hr';
+const FILTER_1d = '1d';
+const FILTER_1w = '1w';
+const FILTERS = [ '6hr', '12hr', '1d', '1w' ];
+
+export {
+  STATUS_ONLINE,
+  STATUS_OFFLINE,
+  LIMIT_TEMPERATURE,
+  TYPE_TEMPERATURE,
+  TYPE_FALL,
+  FILTERS,
+  FILTER_6HR,
+  FILTER_12HR,
+  FILTER_1d,
+  FILTER_1w,
+};

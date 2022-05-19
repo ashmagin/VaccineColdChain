@@ -1,0 +1,11 @@
+{
+  "name": "st2021-devconf-demo-simulator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.981.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}

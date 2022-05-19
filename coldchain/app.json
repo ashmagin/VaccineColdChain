@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "coldchain",
+    "slug": "coldchain",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "backgroundColor": "#2D3B4D",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2D3B4D"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.stdevcon.coldchain"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2D3B4D"
+      },
+      "package": "com.stdevcon.coldchain"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "build": {
+        "babel": {
+          "include": [
+            "deprecated-react-native-listview"
+          ]
+        }
+      }
+    },
+    "plugins": [
+      "@react-native-mapbox-gl/maps"
+    ],
+    "sdkVersion": "42.0.0"
+  }
+}

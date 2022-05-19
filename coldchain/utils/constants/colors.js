@@ -1,0 +1,17 @@
+export const COLOR_SUCCESS = '#4caf50';
+export const COLOR_WARNING = '#ffc107';
+export const COLOR_WARNING_LEVEL_2 = '#FF9900';
+export const COLOR_WARNING_LEVEL_5 = '#70432a';
+export const COLOR_INFO_LEVEL_3 = '#3b3f9a';
+export const COLOR_INFO_LEVEL_5 = '#435272';
+export const COLOR_ALERT = '#ff5722';
+export const COLOR_WHITE = '#ffffff';
+export const COLOR_BLACK = '#000000';
+export const COLOR_GRAY = '#79899C';
+export const COLOR_GRAY_BACKGROUND = '#18222E';
+export const COLOR_GRAY_LEVEL_3 = '#202020';
+export const COLOR_GRAY_LEVEL_5 = '#1c1c1c';
+export const COLOR_GRAPH_LINE_BLUE = '#36B2DE';
+export const COLOR_GRAPH_LINE_ORANGE = '#FF9900';
+export const COLOR_BACKGROUND = '#2D3B4D';
+export const COLOR_CONNECTED_BADGE = '#4DB151';

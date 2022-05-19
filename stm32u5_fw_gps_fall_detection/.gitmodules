@@ -1,0 +1,69 @@
+[submodule "Middleware/FreeRTOS/FreeRTOS-Kernel"]
+	path = Middleware/FreeRTOS/kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/coreMQTT"]
+	path = Middleware/FreeRTOS/coreMQTT
+	url = https://github.com/FreeRTOS/coreMQTT.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/coreMQTT-Agent"]
+	path = Middleware/FreeRTOS/coreMQTT-Agent
+	url = https://github.com/FreeRTOS/coreMQTT-Agent.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/coreJSON"]
+	path = Middleware/FreeRTOS/coreJSON
+	url = https://github.com/FreeRTOS/coreJSON.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/coreHTTP"]
+	path = Middleware/FreeRTOS/coreHTTP
+	url = https://github.com/FreeRTOS/coreHTTP.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/http-parser"]
+	path = Middleware/FreeRTOS/http-parser
+	url = https://github.com/nodejs/http-parser.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/backoffAlgorithm"]
+	path = Middleware/FreeRTOS/backoffAlgorithm
+	url = https://github.com/FreeRTOS/backoffAlgorithm.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/FreeRTOS/corePKCS11"]
+	path = Middleware/FreeRTOS/corePKCS11
+	url = https://github.com/FreeRTOS/corePKCS11.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/AWS/DeviceDefender"]
+	path = Middleware/AWS/IoTDeviceDefender
+	url = https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/AWS/DeviceShadow"]
+	path = Middleware/AWS/IoTDeviceShadow
+	url = https://github.com/aws/Device-Shadow-for-AWS-IoT-embedded-sdk.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/AWS/IoTJobs"]
+	path = Middleware/AWS/IoTJobs
+	url = https://github.com/aws/Jobs-for-AWS-IoT-embedded-sdk.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/AWS/OTA"]
+	path = Middleware/AWS/OTA
+	url = https://github.com/aws/ota-for-aws-iot-embedded-sdk.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/ARM/mbedtls"]
+	path = Middleware/ARM/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
+	fetchRecurseSubmodules = false
+[submodule "Middleware/ARM/trusted-firmware-m"]
+	path = Middleware/ARM/trusted-firmware-m
+	url = https://review.trustedfirmware.org/TF-M/trusted-firmware-m
+	fetchRecurseSubmodules = false
+[submodule "Drivers/CMSIS/Device/ST/STM32U5xx"]
+	path = Drivers/CMSIS/Device/ST/STM32U5xx
+	url = https://github.com/STMicroelectronics/cmsis_device_u5.git
+[submodule "Middleware/ST/STM32CubeU5"]
+	path = Middleware/ST/STM32CubeU5
+	url = https://github.com/STMicroelectronics/STM32CubeU5.git
+	update = none
+[submodule "Middleware/lwip"]
+	path = Middleware/lwip
+	url = https://github.com/lwip-tcpip/lwip.git
+[submodule "Middleware/ARM/littlefs"]
+	path = Middleware/ARM/littlefs
+	url = https://github.com/littlefs-project/littlefs.git
